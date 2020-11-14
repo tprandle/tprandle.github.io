@@ -1,3 +1,14 @@
-h1 {
-  color: red;
+h1,
+h5 {
+  color: black;
+}
+
+.container {
+  text-align: center;
+}
+#result {
+  display: none;
+}
+.card {
+  background-color: salmon;
 }
