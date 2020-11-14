@@ -16,4 +16,3 @@ document.querySelector('#tip-form').onchange = function(){
   
     document.getElementById('results').style.display='block'
   }
-  
